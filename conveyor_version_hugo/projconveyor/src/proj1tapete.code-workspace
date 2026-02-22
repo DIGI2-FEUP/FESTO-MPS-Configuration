@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../proj1.c"
+		},
+		{
+			"name": "projTapete",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"spi.h": "c"
+		}
+	}
+}
