@@ -1,5 +1,5 @@
 /*
-This code was written by myself Hugo Moreira de Sousa Diogo as part of my Reasearch Initiation Grant at DIGI2, SYSTEC. 
+This code was written by myself Hugo Moreira de Sousa Diogo as part of my Research Initiation Grant at DIGI2, SYSTEC. 
 For any questions regarding the code, please contact me:
 - Email: hugomsdiogo@gmail.com
 - LinkedIn: https://www.linkedin.com/in/msousahugo/
